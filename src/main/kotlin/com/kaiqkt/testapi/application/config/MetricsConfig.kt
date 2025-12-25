@@ -1,6 +1,6 @@
-package ${package}.application.config
+package com.kaiqkt.testapi.application.config
 
-import ${package}.domain.utils.MetricsUtils
+import com.kaiqkt.testapi.domain.utils.MetricsUtils
 import io.micrometer.core.instrument.MeterRegistry
 import org.springframework.context.annotation.Configuration
 
